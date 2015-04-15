@@ -287,7 +287,5 @@ public class YFinancier  {
         }
 
     }
-
-
-
+    
 }
