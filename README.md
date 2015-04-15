@@ -7,8 +7,8 @@ Just specify the stock and the output file, and this program will grab the most 
 ## To use this class
 
 **Perform the following steps:**
-  - Create and instance of YFinancier
-      o   You may pass it two strings:
+  - Create an instance of YFinancier
+      *   You may pass it two strings:
            1.  The stock symbol
            2.  File name or path for where the data should be stored
   - Call the #downloadFile method from your instance
